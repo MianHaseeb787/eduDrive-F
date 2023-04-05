@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "344969159707",
+    "project_id": "edupedo-90a14",
+    "storage_bucket": "edupedo-90a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344969159707:android:e21d7dee1e0a1a2a8744be",
+        "android_client_info": {
+          "package_name": "net.fyp.edudrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344969159707-g967g30ie1np2mr5el927hhmqm15jbod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.fyp.edudrive",
+            "certificate_hash": "4ebb0d70fb5f033d72bba55e56597a7a6025b117"
+          }
+        },
+        {
+          "client_id": "344969159707-r6l1iv4pm6dkpgjbgmurplpih009qg6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKreerW_hK_Dh6qUzNB0Uv_agC1TO9-mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344969159707-mps2jet7b9j3haojsnqgrvsgruuam5l8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344969159707-slhvak4rlhgiqk3q1qptg6mrhvkhhni3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.fyp.edudrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
